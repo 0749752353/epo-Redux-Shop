@@ -1,0 +1,89 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Watch",
+        "price": 2000.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "/images/watch.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Chain",
+        "price": 3000.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "/images/chain.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Hat",
+        "price": 4000.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "/images/hat.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Shoes",
+        "price": 5000.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "/images/shoes.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Socks",
+        "price": 6000.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "/images/socks.jpg"
+      },
+      {
+        "id": 6,
+        "name": "T-shirt",
+        "price": 7000.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "/images/t-shirt.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Pants",
+        "price": 8000.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "/images/pants.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Belt",
+        "price": 9000.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "/images/belt.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Gloves",
+        "price": 10000.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "/images/gloves.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Scarf",
+        "price": 11000.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "/images/scarf.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Sunglasses",
+        "price": 12000.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "/images/glass.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Backpack",
+        "price": 13000.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "/images/backpack.jpg"
+      }
+    ]
+  }
+  
